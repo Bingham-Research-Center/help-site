@@ -12,4 +12,5 @@
     <toc-element topic="map_devinfo.md"/>
     <toc-element topic="layout_devinfo.md"/>
     <toc-element topic="code_guidelines_dev.md"/>
+    <toc-element topic="forecast_devinfo.md"/>
 </instance-profile>
